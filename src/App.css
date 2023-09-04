@@ -1,13 +1,18 @@
 * {
     box-sizing: border-box;
-    padding:0;
-    margin:0;
+    padding: 0;
+    margin: 0;
     scroll-behavior: smooth;
 }
+
+
+
 
 body {
     background: var(--color-bg)
 }
+
+
 
 /* lets make the color of a unset and text decoration to none*/
 a {
